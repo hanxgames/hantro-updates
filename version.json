@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "url": "https://your-server-url.com/dist.zip",
+  "version": "1.0.2",
+  "url": "https://raw.githubusercontent.com/hanxgames/hantro-updates/main/dist.zip",
   "checksum": "optional-checksum-base64"
 }
